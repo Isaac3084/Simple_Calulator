@@ -11,7 +11,7 @@ This is a simple command-line calculator written in Python. It supports basic ar
 
 ## How to Use
 
-1. Run the `calculator.py` file.
+1. Run the `Simple_Calculator.py` file.
 2. Select the desired operation (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
 3. Enter the first and second numbers as prompted.
 4. The calculator will display the result.
